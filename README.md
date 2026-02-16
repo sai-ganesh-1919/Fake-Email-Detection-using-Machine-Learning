@@ -66,4 +66,3 @@ Actual Spam	   95     	5
 Actual Ham    	3     	97
 
 The system successfully detects fake emails with high accuracy.
-npx github-readme-generator
