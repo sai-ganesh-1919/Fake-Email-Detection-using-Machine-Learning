@@ -66,8 +66,10 @@ Recall: Reduced false negatives
 
 Confusion Matrix Example:
 
-Predicted     Spam	Predicted Ham
-Actual Spam	   95     	5
-Actual Ham    	3     	97
+Predicted        Spam	  Predicted Ham
+
+Actual Spam	      95         	5
+
+Actual Ham        	3     	97
 
 The system successfully detects fake emails with high accuracy.
