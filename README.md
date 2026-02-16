@@ -54,9 +54,10 @@ Generate REST API
 *Result*
 <img width="1887" height="965" alt="Screenshot 2026-02-13 214046" src="https://github.com/user-attachments/assets/378b1ab8-e917-4127-a5d8-9b04eb6fbb25" />
 
-<img width="1887" height="965" alt="Screenshot 2026-02-13 214046" src="https://github.com/user-attachments/assets/b4228953-9bb2-419e-8289-e640bbe71137" />
-
 <img width="1908" height="838" alt="Screenshot 2026-02-13 213918" src="https://github.com/user-attachments/assets/2d0d6c7a-773e-4cce-bb30-8017c7053fbe" />
+
+<img width="1876" height="908" alt="Screenshot 2026-02-13 214014" src="https://github.com/user-attachments/assets/c02dd032-b6cf-4eeb-b1fb-04c002882562" />
+
 
 Model Performance Metrics:
 Accuracy: 95% – 98%
