@@ -70,6 +70,7 @@ npm install
 ```bash
 npm run dev
 ```
+<img width="1887" height="965" alt="Screenshot 2026-02-13 214046" src="https://github.com/user-attachments/assets/952d59c6-b9cd-40c2-85ab-181fd368060e" />
 
 ---
 
@@ -102,6 +103,9 @@ Your Python backend needs to implement these API endpoints:
 ---
 
 ### **2. Email Analysis Endpoint**
+
+<img width="1896" height="988" alt="Screenshot 2026-02-16 172421" src="https://github.com/user-attachments/assets/1624eabf-4f02-49cc-be75-57b4daf619be" />
+
 
 **POST** `/analyze`
 
@@ -154,6 +158,9 @@ Content-Type: application/json
 ---
 
 ### **3. Get History Endpoint**
+
+<img width="1876" height="908" alt="Screenshot 2026-02-13 214014" src="https://github.com/user-attachments/assets/e9d3abf3-65cf-426c-b0d4-d0530d17fa44" />
+
 
 **GET** `/history?userId={userId}`
 
@@ -217,7 +224,7 @@ Authorization: Bearer {token}
 
 ---
 
-## 🤖 Python Backend Example (Azure Functions)
+## 🤖 Python Backend (Azure Functions)
 
 Here's a starter template for your Python Azure Function:
 
@@ -337,6 +344,9 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 ---
 
 ## 🗄️ Azure Database Setup
+
+<img width="1908" height="838" alt="Screenshot 2026-02-13 213918" src="https://github.com/user-attachments/assets/24fbfcf2-02fd-4733-9d3c-c292aa31a74c" />
+
 
 ### Option 1: Azure SQL Database
 
@@ -519,4 +529,4 @@ For questions about:
 
 ## 📝 License
 
-This project is for educational purposes. Use responsibly and ensure compliance with data protection regulations.
+This project owns to the developer. Use responsibly and ensure compliance with data protection regulations.
