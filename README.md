@@ -230,6 +230,9 @@ Here's a starter template for your Python Azure Function:
 
 ### `__init__.py` (Email Analysis Function)
 
+<img width="1908" height="838" alt="Screenshot 2026-02-13 213918" src="https://github.com/user-attachments/assets/52b56098-017b-4bfd-ac61-f16b3af6d4e8" />
+
+
 ```python
 import azure.functions as func
 import logging
@@ -344,9 +347,6 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 ---
 
 ## 🗄️ Azure Database Setup
-
-<img width="1908" height="838" alt="Screenshot 2026-02-13 213918" src="https://github.com/user-attachments/assets/24fbfcf2-02fd-4733-9d3c-c292aa31a74c" />
-
 
 ### Option 1: Azure SQL Database
 
